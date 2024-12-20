@@ -1,0 +1,8 @@
+prefix=/home/soon/catkin_ws/devel
+
+Name: charlie
+Description: Description of charlie
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/soon/catkin_ws/install
+
+Name: urdf_editor
+Description: Description of urdf_editor
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lurdf_editor
+Requires: pluginlib rviz urdf roslaunch
